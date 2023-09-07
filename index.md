@@ -150,6 +150,8 @@ Currently, Roman is working on open-source projects related to the latest breakt
 
 ### 2018.09.02 - [Cursive, Production and N00bing](https://www.meetup.com/rust-tlv/events/253408497/)
 
+Hosted by [Healthy.io](https://healthy.io/).
+
 September's meetup will feature a great variety of experiences:
 
 * N00bing Through Rust by [Yuval Adam](https://www.linkedin.com/in/yuvaladam/):
